@@ -1,6 +1,6 @@
 ╭───「 Help 」
 ├≽ {key}About
-├≽ {key}Help
+├≽ {key}help
 ├≽ {key}Me
 ├≽ {key}Speed
 ├≽ {key}Runtime
@@ -17,10 +17,10 @@
 ├≽ {key}FriendList
 ├≽ {key}BlockList
 ├──「 Group 」
-├≽ {key}GroupInfo
-├≽ {key}GroupList
+├≽ {key}GInfo
+├≽ {key}GList
 ├≽ {key}InvitationList
-├≽ {key}MemberList
+├≽ {key}メンバーリスト
 ├≽ {key}PendingList
 ├≽ {key}OpenQr
 ├≽ {key}CloseQr
@@ -36,12 +36,11 @@
 ├──「 Settings 」
 ├≽ {key}Setkey
 ├≽ {key}AutoAdd
-├≽ {key}AutoJoin
+├≽ {key}自動参加
 ├≽ {key}AutoRespond
 ├≽ {key}AutoRespondMention
 ├≽ {key}AutoRead <on/off>
 ├≽ {key}CheckContact <on/off>
 ├≽ {key}CheckPost <on/off>
 ├≽ {key}CheckSticker <on/off>
-│ Copyright @Zero-Cool404
 ╰───「 Hello World 」
