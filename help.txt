@@ -12,15 +12,15 @@
 ├──「 Self 」
 ├≽ {key}MyProfile
 ├≽ {key}Profile
-├≽ {key}Mimic
+├≽ {key}clone
 ├≽ {key}Broadcast
-├≽ {key}FriendList
+├≽ {key}Friend
 ├≽ {key}BlockList
 ├──「 Group 」
-├≽ {key}GroupInfo
-├≽ {key}GroupList
+├≽ {key}GInfo
+├≽ {key}GList
 ├≽ {key}InvitationList
-├≽ {key}MemberList
+├≽ {key}Member
 ├≽ {key}PendingList
 ├≽ {key}OpenQr
 ├≽ {key}CloseQr
@@ -30,7 +30,7 @@
 ├≽ {key}Cancelall
 ├≽ {key}MentionAll
 ├≽ {key}Lurk
-├≽ {key}Kick <mention>
+├≽ {key}Kick (mention)
 ├≽ {key}Vkick <mention>
 ├≽ {key}Greet
 ├──「 Settings 」
